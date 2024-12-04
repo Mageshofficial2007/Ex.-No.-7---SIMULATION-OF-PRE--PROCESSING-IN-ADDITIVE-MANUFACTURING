@@ -44,9 +44,12 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![Screenshot 2024-12-04 114221](https://github.com/user-attachments/assets/6cf82f94-eb58-4bda-a10a-ebc2b4f09c8e)
+![Screenshot 2024-12-04 114250](https://github.com/user-attachments/assets/41080948-a11a-4da6-9592-197716b2d4c8)
+![Screenshot 2024-12-04 114258](https://github.com/user-attachments/assets/7b12824a-79c5-4b71-a377-c79849e102a5)
 
-### Name:
-### Register Number:
+### Name:MAGESH BOOPATHI.M
+### Register Number: 24900855
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
